@@ -17,6 +17,9 @@
     <method v="2">
       <option name="Make" enabled="true" />
       <option name="Gradle.BeforeRunTask" enabled="true" tasks=":prepareRunServer" externalProjectPath="$PROJECT_DIR$" />
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="CopyResources" />
+      </option>
     </method>
   </configuration>
 </component>
